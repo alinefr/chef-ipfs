@@ -1,4 +1,4 @@
-# ipfs_blog
+# ipfs
 
 TODO: Enter the cookbook description here.
 

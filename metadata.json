@@ -1,7 +1,7 @@
 {
-  "name": "ipfs_blog",
-  "description": "Installs/Configures ipfs_blog",
-  "long_description": "Installs/Configures ipfs_blog",
+  "name": "ipfs",
+  "description": "Installs/Configures ipfs",
+  "long_description": "Installs/Configures ipfs",
   "maintainer": "The Authors",
   "maintainer_email": "you@example.com",
   "license": "All Rights Reserved",
