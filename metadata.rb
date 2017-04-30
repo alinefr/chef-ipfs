@@ -1,6 +1,6 @@
 name 'ipfs'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Aline Freitas'
+maintainer_email 'aline@alinefreitas.com.br'
 license 'All Rights Reserved'
 description 'Installs/Configures ipfs'
 long_description 'Installs/Configures ipfs'
@@ -13,10 +13,10 @@ depends 'golang', '~> 1.7.0'
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/ipfs/issues'
+issues_url 'https://github.com/alinefr/chef-ipfs/issues'
 
 # The `source_url` points to the development reposiory for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/ipfs'
+source_url 'https://github.com/alinefr/chef-ipfs'
